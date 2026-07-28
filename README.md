@@ -9,7 +9,7 @@ Welcome to my digital space! I am an aspiring Software Engineer currently pursui
 I am deeply passionate about solving real-world problems through code, exploring new technologies, and building impactful software. Currently, I am focusing on strengthening my core computer science fundamentals while actively diving into modern development frameworks.
 
 * 🌍  I'm based in Bengaluru
-* ✉️  You can contact me at [sharadhi.sortur7@gmail.com](mailto:sharadhi.sortur7@gmail.com)
+* ✉️  You can contact me at [sharadhisortur5@gmail.com](mailto:sharadhisortur5@gmail.com)
 * 🧠  I'm currently learning Javascript, HTML, CSS, Python, Java, C++
 
 <p align="left">
