@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Sharadhi Sortur
 ========================================================================================================================================
 
-2nd Year CSE Student
+3rd Year CSE Student
 --------------------
 
 Welcome to my digital space! I am an aspiring Software Engineer currently pursuing my Bachelor’s degree in Computer Science and Engineering at SDM College of Engineering and Technology (SDMCET).
